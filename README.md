@@ -91,7 +91,7 @@ Sample Response:
 
 🛠 Installation & Setup Instructions
 1. Clone the repository
-git clone https://github.com/hamzaraseel7/MovieCollection.git
+git clone https://github.com/Codewith-haroon/Movies-Collection-API.git
 
 2. Navigate into the project
 cd movie-collection-api
@@ -123,8 +123,8 @@ http://localhost:3000/
 ✔ Organized API responses
 ✔ Clean project structure
 
-🔗 GitHub Repository Link
-https://github.com/hamzaraseel7/MovieCollection
+🔗 GitHub Repository
+https://github.com/Codewith-haroon/Movies-Collection-API
 
 👉 Add your actual GitHub repo URL here
 
